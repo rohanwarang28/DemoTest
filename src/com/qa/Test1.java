@@ -36,6 +36,4 @@ public class Test1 {
 }
 }
 
-//asian guys edit1
-//american guy edit2
-//develop branch changes
+//2nd change
